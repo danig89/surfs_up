@@ -18,7 +18,7 @@ Software: Jupyter Notebook, Python 3.7.6
 - The highest temperature recorded for June was 85F and 83F for December.
 
 ## Summary
-The analysis showed that overall, temperatures tend to be higher in the month of June than in December. However, temperatures remain pretty mild during both months. Sales may slow during the colder days in December, as the low can be in the 50s. This should not be a concern, as further analysis revealed that in December, a higher frequency of days had temperatures between 68F and 74F (Graph 1). In June, temperatures are frequently between 69F and 72F (Graph 2). The results show that W. Avy can feel confident investing in the surf board and ice cream shop.
+The analysis showed that overall, temperatures tend to be higher in the month of June than in December. However, temperatures remain pretty mild during both months. Sales may slow during the colder days in December, as the low can be in the 50s. This should not be a concern, as further analysis revealed that in December, a higher frequency of days had temperatures between 68F and 74F (Graph 1). In June, temperatures are frequently between 69F and 72F (Graph 2). Precipitation results showed that the average rainfall is 0.177 inches for a 12-month period. The results show that W. Avy can feel confident investing in the surf board and ice cream shop.
 <br>
 <br>
 **Graph 1**
